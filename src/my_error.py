@@ -30,7 +30,6 @@ def add(a, b):
     print("ad结束执行")
     return c
 
-sasdsdassdds
 
 def mains():
     print("mains开始执行")
